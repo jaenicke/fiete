@@ -2,7 +2,5 @@
 
 Dieses Repository enthält eine Sammlung von Quelltexten (kleine Logikspiele usw.), die Wolfgang Bartsch erstellt hat.
 
-# Spiegellabyrinth
+# [Spiegellabyrinth](Spiegellabyrinth/README.md)
 ![Screenshot](Spiegellabyrinth/preview_small.jpg)
-Ordner: Spiegellabyrinth
-[Readme](Spiegellabyrinth/README.md)
