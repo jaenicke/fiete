@@ -12,4 +12,4 @@ Die Hindernisse können beim Lösen hilfreich sein!
 
 Die Anzahl der Hindernisse ergibt sich aus der Seitenlänge.
 
-[Quelltext inkl. kompilierter Anwendung](SpiegelGolf.zip)
+[Quelltext inkl. kompilierter Anwendung](https://raw.githubusercontent.com/jaenicke/fiete/main/Spiegellabyrinth/SpiegelGolf.zip)

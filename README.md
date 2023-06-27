@@ -7,4 +7,4 @@ Dieses Repository enthält eine Sammlung von Quelltexten (kleine Logikspiele usw
 
 [Readme](Spiegellabyrinth/README.md)
 
-[Quelltext inkl. kompilierter Anwendung](Spiegellabyrinth/SpiegelGolf.zip)
+[Quelltext inkl. kompilierter Anwendung](https://raw.githubusercontent.com/jaenicke/fiete/main/Spiegellabyrinth/SpiegelGolf.zip)
