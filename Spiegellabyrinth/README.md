@@ -11,3 +11,5 @@ Die Kugeln bewegen sich BEIDE gleichzeitig. Die grüne in die gewählte Richtung
 Die Hindernisse können beim Lösen hilfreich sein!
 
 Die Anzahl der Hindernisse ergibt sich aus der Seitenlänge.
+
+[Quelltext inkl. kompilierter Anwendung](SpiegelGolf.zip)
